@@ -1,5 +1,5 @@
 # Description
-This is the official repository for the IBKD knowledge distillation method, as described in the paper []().
+This is the official code for paper [Text Representation Distillation via Information Bottleneck Principle](https://arxiv.org/abs/2311.05472).
 
 
 This code is based on the [SimCSE code](https://github.com/princeton-nlp/SimCSE)
